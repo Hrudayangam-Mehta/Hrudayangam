@@ -1,0 +1,7 @@
+.tools/
+__pycache__/
+*.pyc
+resumes/*.log
+resumes/*.aux
+resumes/*.out
+resumes/Hrudayangam-Mehta-Resume.txt
